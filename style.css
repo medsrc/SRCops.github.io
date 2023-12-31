@@ -1,0 +1,12 @@
+body {
+    background-color:blueviolet;
+    margin: 0 auto;
+    max-with: 800px
+}
+h1 {
+    font-size: 50px;
+    color: rgb(157, 235, 97);
+}
+p {
+    font-size: 22px
+}
